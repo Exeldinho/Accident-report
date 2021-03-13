@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "water.aqua",
+  "mongoUri": "mongodb+srv://roman:reportpassword_@cluster0.brlbw.mongodb.net/rep?retryWrites=true&w=majority"
+}
